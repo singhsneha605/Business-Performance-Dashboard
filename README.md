@@ -35,10 +35,8 @@
 
 ---
 
-## How to Build — Follow the Step-by-Step Guide
-All Tableau steps are in `tableau_dashboard_steps.md`
 
----
+
 
 ## Skills Demonstrated
 `Data Visualisation` · `Dashboard Design` · `KPI Reporting` · `Tableau Public` · `Business Intelligence` · `Storytelling with Data`
