@@ -27,10 +27,10 @@
 ---
 
 ## Key Business Insights
--Technology has the highest profit margin; Furniture often runs at a loss
--West region is the most profitable across all 4 regions
--Tables and Bookcases are the biggest loss-making sub-categories (shown in red)
--Consumer segment accounts for 50%+ of total sales
+- Technology has the highest profit margin; Furniture often runs at a loss
+- West region is the most profitable across all 4 regions
+- Tables and Bookcases are the biggest loss-making sub-categories (shown in red)
+- Consumer segment accounts for 50%+ of total sales
 
 
 ---
