@@ -17,22 +17,21 @@
 ---
 
 ## Dashboard Features
-- KPI Cards: Total Revenue, Total Profit, Total Orders
-- Monthly Revenue & Profit Trend (line chart)
-- Revenue & Profit by Category (dual-axis bar)
-- Profit by Region
-- Profit by Sub-Category (highlights loss-making products)
-- Discount vs Profit scatter plot (shows discount impact)
-- Customer Segment split
-- Interactive Year & Region filters
+Monthly Revenue & Profit Trend (dual-axis line chart)
+Sales & Profit by Category (bar chart)
+Profit by Region (bar chart)
+Profit by Sub-Category (highlights loss-making products in red)
+Sales by Customer Segment (pie chart)
+Interactive Year filter
 
 ---
 
 ## Key Business Insights
-- **Technology** has the highest profit margin; **Furniture** often runs at a loss
-- **High discounts (30%+) consistently produce negative profit** — visible in scatter plot
-- **West region** is the most profitable
-- **Tables and Bookcases** are the biggest loss-making sub-categories
+Technology has the highest profit margin; Furniture often runs at a loss
+West region is the most profitable across all 4 regions
+Tables and Bookcases are the biggest loss-making sub-categories (shown in red)
+Consumer segment accounts for 50%+ of total sales
+
 
 ---
 
