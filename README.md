@@ -17,12 +17,12 @@
 ---
 
 ## Dashboard Features
--Monthly Revenue & Profit Trend (dual-axis line chart)
--Sales & Profit by Category (bar chart)
--Profit by Region (bar chart)
--Profit by Sub-Category (highlights loss-making products in red)
--Sales by Customer Segment (pie chart)
--Interactive Year filter
+- Monthly Revenue & Profit Trend (dual-axis line chart)
+- Sales & Profit by Category (bar chart)
+- Profit by Region (bar chart)
+- Profit by Sub-Category (highlights loss-making products in red)
+- Sales by Customer Segment (pie chart)
+- Interactive Year filter
 
 ---
 
