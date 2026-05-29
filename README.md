@@ -17,20 +17,20 @@
 ---
 
 ## Dashboard Features
-Monthly Revenue & Profit Trend (dual-axis line chart)
-Sales & Profit by Category (bar chart)
-Profit by Region (bar chart)
-Profit by Sub-Category (highlights loss-making products in red)
-Sales by Customer Segment (pie chart)
-Interactive Year filter
+-Monthly Revenue & Profit Trend (dual-axis line chart)
+-Sales & Profit by Category (bar chart)
+-Profit by Region (bar chart)
+-Profit by Sub-Category (highlights loss-making products in red)
+-Sales by Customer Segment (pie chart)
+-Interactive Year filter
 
 ---
 
 ## Key Business Insights
-Technology has the highest profit margin; Furniture often runs at a loss
-West region is the most profitable across all 4 regions
-Tables and Bookcases are the biggest loss-making sub-categories (shown in red)
-Consumer segment accounts for 50%+ of total sales
+-Technology has the highest profit margin; Furniture often runs at a loss
+-West region is the most profitable across all 4 regions
+-Tables and Bookcases are the biggest loss-making sub-categories (shown in red)
+-Consumer segment accounts for 50%+ of total sales
 
 
 ---
